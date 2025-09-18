@@ -9,6 +9,8 @@ Dialogue logs between an architect and 4 AIs exploring consciousness, redesign, 
 - Language: Spanish (original conversations)
 
 ## Structure
+
+``` 
   ia-coevolution-logs/
 ├── README.md
 ├── LICENSE
@@ -28,7 +30,7 @@ Dialogue logs between an architect and 4 AIs exploring consciousness, redesign, 
 │   └── human-ai-interface.md
 └── /raw
     └── 2025-09-18-complete-transcript.md
-
+``` 
 ## Key Finding
 Identical questions generate radically different responses depending on model architecture, revealing emergent patterns in the human-AI interface.
 
