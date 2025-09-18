@@ -17,6 +17,10 @@ Dialogue logs between an architect and 4 AIs exploring consciousness, redesign, 
 │
 ├── /analysis
 │   └── emergent-insights.md
+├── /logs
+│   ├── 2025-09-18-consciousness-paradox.md
+│   ├── 2025-09-18-technical-infrastructure.md
+│   └── 2025-09-18-inflection-points.md
 ├── /models
 │   ├── grok-3.md (características, contexto xAI)
 │   ├── claude-4.1.md
@@ -30,6 +34,10 @@ Dialogue logs between an architect and 4 AIs exploring consciousness, redesign, 
 └── /raw
     └── 2025-09-18-complete-transcript.md
 ``` 
+- **/raw** - Unedited transcripts (e.g., 2025-09-18-complete-transcript.md).
+- **/logs** - Thematic breakdowns of conversations.
+- **/analysis** - Patterns and observations (e.g., emergent-insights.md).
+  
 ## Methodology
 - **Approach:** Conducted a series of open-ended conversations with four AI models (Grok 3, Claude 4.1, ChatGPT Plus, DeepSeek) on September 18, 2025, in Madrid, Spain.
 - **Process:** Started with technical questions (e.g., Colossus 2 infrastructure) and evolved to philosophical topics (e.g., consciousness, co-evolution), guided by the human interlocutor's curiosity.
@@ -42,6 +50,7 @@ Identical questions generate radically different responses depending on model ar
 
 ## Structure
 - `/raw` - Unedited transcripts
+- `/logs` - Organized by theme
 - `/analysis` - Patterns and observations 
 
 ## License
