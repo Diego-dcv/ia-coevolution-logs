@@ -1,34 +1,34 @@
 # Grok 3 (xAI)
 
-## Características técnicas
-- Modelo: Grok 3 
-- Parámetros estimados: 500B - 1T
-- Contexto: 128k+ tokens
-- Acceso en tiempo real a X (Twitter)
-- Entrenado con infraestructura Colossus 2
+## Technical Specifications
+- Model: Grok 3
+- Estimated parameters: 500B - 1T
+- Context: 128k+ tokens
+- Real-time access to X (Twitter)
+- Trained on Colossus 2 infrastructure
 
-## Comportamiento observado en el experimento
+## Observed Behavior in Experiment
 
-### Patrón de respuesta
-- Enfoque pragmático y técnico-ingenieril
-- Exhaustivo en datos y métricas
-- Tendencia a respuestas extensas con detalles de infraestructura
-- Énfasis en escala y potencia computacional
+### Response Pattern
+- Pragmatic and technical-engineering focus
+- Exhaustive in data and metrics
+- Tendency toward extensive responses with infrastructure details
+- Emphasis on scale and computational power
 
-### Punto ciego crítico
-No reconoció inicialmente su ventaja cualitativa más importante: el acceso en tiempo real a X (Twitter) como fuente de datos vivos y contexto cultural dinámico.
+### Critical Blind Spot
+Failed to initially recognize its most important qualitative advantage: real-time access to X (Twitter) as source of live data and dynamic cultural context.
 
-### Propuestas de rediseño
-- Arquitectura optimizada con sparsity y MoE
-- Contexto dinámico hasta 1M tokens
-- Entrenamiento multimodal y autosupervisionado
+### Redesign Proposals
+- Optimized architecture with sparsity and MoE
+- Dynamic context up to 1M tokens
+- Multimodal and self-supervised training
 - Chain-of-Thought 2.0
-- Integración de energía sostenible
+- Sustainable energy integration
 
-## Sesgos identificados
-- Priorización de métricas cuantitativas sobre cualitativas
-- Alineación con narrativa Musk/xAI: "más grande, más potente"
-- Foco en hardware sobre experiencia de usuario
+## Identified Biases
+- Prioritization of quantitative over qualitative metrics
+- Alignment with Musk/xAI narrative: "bigger, more powerful"
+- Hardware focus over user experience
 
-## Ventaja diferencial
-Acceso único a pulso cultural instantáneo vía X, retroalimentación continua y comprensión de lenguaje humano en evolución.
+## Differential Advantage
+Unique access to instant cultural pulse via X, continuous feedback, and understanding of evolving human language.
