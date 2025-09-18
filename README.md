@@ -15,10 +15,8 @@ Dialogue logs between an architect and 4 AIs exploring consciousness, redesign, 
 ├── README.md
 ├── LICENSE
 │
-├── /logs
-│   ├── 2025-09-18-consciousness-paradox.md
-│   ├── 2025-09-18-technical-infrastructure.md
-│   └── 2025-09-18-inflection-points.md
+├── /analysis
+│   └── emergent-insights.md
 ├── /models
 │   ├── grok-3.md (características, contexto xAI)
 │   ├── claude-4.1.md
@@ -44,8 +42,7 @@ Identical questions generate radically different responses depending on model ar
 
 ## Structure
 - `/raw` - Unedited transcripts
-- `/logs` - Organized by theme (coming soon)
-- `/analysis` - Patterns and observations (coming soon)
+- `/analysis` - Patterns and observations 
 
 ## License
 MIT
