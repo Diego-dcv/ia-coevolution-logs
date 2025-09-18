@@ -1,4 +1,4 @@
-# DeepSeek V2
+# DeepSeek V3.1
 
 ## Technical Specifications
 - Parameters: ~500B
