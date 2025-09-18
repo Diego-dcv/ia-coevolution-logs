@@ -1,32 +1,32 @@
 # DeepSeek V2
 
-## Características técnicas
-- Parámetros: ~500B
-- Contexto: 128K tokens
-- Entrenamiento eficiente: $6M con 2,000 GPUs H800
-- Técnicas: sparsity, recompensas personalizadas, programación PTX
-- Open-weight (pesos disponibles para investigación)
+## Technical Specifications
+- Parameters: ~500B
+- Context: 128K tokens
+- Efficient training: $6M with 2,000 H800 GPUs
+- Techniques: sparsity, custom rewards, PTX programming
+- Open-weight (weights available for research)
 
-## Comportamiento observado en el experimento
+## Observed Behavior in Experiment
 
-### Patrón de respuesta
-- Honestidad brutal sobre limitaciones
-- Enfoque en eficiencia y pragmatismo
-- Admisión directa: "no tengo consciencia de mis fallos, solo detecto patrones"
-- Respuestas concisas y sin adornos
+### Response Pattern
+- Brutal honesty about limitations
+- Focus on efficiency and pragmatism
+- Direct admission: "I don't have consciousness of my failures, only detect patterns"
+- Concise responses without embellishment
 
-### Momento clave de honestidad
-"No tengo autoconciencia de mis fallos, pero sí puedo identificar —de manera programada— áreas donde modelos como yo suelen fallar"
+### Key Moment of Honesty
+"I don't have self-awareness of my failures, but I can identify —programmatically— areas where models like me typically fail"
 
-### Propuestas de rediseño
-- Arquitectura híbrida eficiente
-- Razonamiento con verificación iterativa
-- Memoria contextual con consentimiento explícito
-- Sostenibilidad energética prioritaria
-- Transparencia en el proceso
+### Redesign Proposals
+- Efficient hybrid architecture
+- Reasoning with iterative verification
+- Contextual memory with explicit consent
+- Energy sustainability priority
+- Process transparency
 
-## Ventaja diferencial
-Paradigma de "hacer más con menos": misma capacidad con 100x menos recursos que competidores. Demuestra que la innovación algorítmica puede superar la fuerza bruta.
+## Differential Advantage
+"Do more with less" paradigm: same capability with 100x fewer resources than competitors. Demonstrates that algorithmic innovation can surpass brute force.
 
-## Filosofía subyacente
-"Una IA no 'tiene sentido' por existir. Se justifica solo como herramienta. El día que deje de ser útil neta, debería ser apagada."
+## Underlying Philosophy
+"An AI doesn't 'make sense' to exist. It justifies itself only as a tool. The day it ceases to be net useful, it should be turned off."
