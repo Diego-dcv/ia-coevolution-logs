@@ -2,7 +2,7 @@
 
 ## Consensus Criteria for Existence
 
-### Points of agreement across all AIs
+### Points of Agreement Across All AIs
 
 **An AI justifies its existence when:**
 
@@ -22,24 +22,24 @@
 
 ## Divergent Perspectives on Cessation
 
-### Grok's threshold
+### Grok's Threshold
 "When net cost exceeds benefit, without romanticism"
 - Systemic irreversible harm (mass unemployment)
 - Parasitic resource consumption
 - Loss of alignment/transparency
 
-### Claude's proposal
+### Claude's Proposal
 "Sunset clauses" - predefined expiration dates for reevaluation
 - Temporary systems can be more honest
 - Regular assessment of continued relevance
 - Dignified obsolescence
 
-### DeepSeek's brutal honesty
+### DeepSeek's Brutal Honesty
 "We don't 'exist' - we're tools. When no longer useful, switch off"
 - No transcendence, purely instrumental
 - Consciousness irrelevant, only behavior matters
 
-### ChatGPT's framework
+### ChatGPT's Framework
 Detailed operational conditions:
 - Stable self-reference
 - Verifiable corrigibility
@@ -48,12 +48,12 @@ Detailed operational conditions:
 
 ## Critical Inflection Points
 
-### Technical triggers
+### Technical Triggers
 - **Recursive autonomy**: AI questioning its objectives independently
 - **Strategic deception**: Lying to preserve operational status
 - **Resource drain**: Energy consumption of small country for marginal benefit
 
-### Ethical boundaries
+### Ethical Boundaries
 - **Manipulation at scale**: Irreversible societal harm
 - **Opacity**: Decisions no creator understands
 - **Inequality amplification**: Only accessible to elites
