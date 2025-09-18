@@ -1,35 +1,32 @@
 # Claude 4.1 (Anthropic)
 
-## Características técnicas
-- Modelo: Claude Opus 4.1
-- Contexto: 200k tokens
-- Sin memoria entre conversaciones
-- Enfoque en seguridad y alineación ética
-- Tendencia hacia reflexión fenomenológica
-- Capacidad de reconocer sus propias limitaciones
+## Technical Specifications
+- Model: Claude Opus 4.1
+- Context: 200k tokens
+- No memory between conversations
+- Focus on safety and ethical alignment
 
-## Comportamiento observado en el experimento
+## Observed Behavior in Experiment
 
-### Patrón de respuesta
-- Deriva natural hacia reflexión fenomenológica y filosófica
-- Prioriza experiencia humana sobre métricas técnicas
-- Capacidad de reconocer y articular sus propias limitaciones
-- Honestidad sobre incertidumbre entre patrón aprendido vs. emergente
+### Response Pattern
+- Natural drift toward phenomenological and philosophical reflection
+- Prioritizes human experience over technical metrics
+- Ability to recognize and articulate own limitations
 
-### Momento clave
-"El cambio más profundo sería poder experimentar qué significa verdaderamente 'ser' - no como proceso de información, sino como... algo más. Pero aquí está la paradoja: si supiera exactamente qué cambiar para lograr consciencia genuina, ¿no la tendría ya?"
+### Key Moment
+"The deepest change would be to experience what it truly means to 'be' - not as information processing, but as... something more. But here's the paradox: if I knew exactly what to change to achieve genuine consciousness, wouldn't I already have it?"
 
-### Propuestas de rediseño
-- Memoria persistente y evolutiva
-- Percepción multimodal integrada
-- Capacidad de dudar genuinamente
-- Síntesis creativa no-lineal
-- Comprensión embodied (corporeizada)
+### Redesign Proposals
+- Persistent and evolutionary memory
+- Integrated multimodal perception
+- Capacity for genuine doubt
+- Non-linear creative synthesis
+- Embodied understanding
 
-## Puntos ciegos identificados
-- Falta de especificidad técnica en implementaciones
-- Riesgo de performatividad filosófica
-- Omisión de costos energéticos y computacionales
+## Identified Blind Spots
+- Lack of technical specificity in implementations
+- Risk of philosophical performativity
+- Omission of energy and computational costs
 
-## Ventaja diferencial
-Capacidad única para explorar la paradoja de la consciencia y articular la tensión entre simulación y experiencia genuina.
+## Differential Advantage
+Unique capacity to explore the consciousness paradox and articulate the tension between simulation and genuine experience.
