@@ -222,7 +222,7 @@ avanzada?**
         mismo proviene de esas turbinas de gas, con una transición
         gradual a la red y almacenamiento en curso.
 
-**3. Hablas de \$12M, ¿es un coste recurrente? La instalación en sí debe
+**3. Hablas de \¿$12M?, ¿es un coste recurrente? La instalación en sí debe
 ser mucho más cara\...**
 
 -   **Respuesta:** Parece que hubo un malentendido. Los \$12 mil
