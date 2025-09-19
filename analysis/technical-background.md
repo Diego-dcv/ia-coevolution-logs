@@ -114,6 +114,11 @@ This projection is not inevitable. The case of **DeepSeek V3.1** demonstrates th
 
 3. **Intellectual property**:
    - Who owns AI-generated ideas?
+  
+4. **Use in Judicial Systems**:
+   - The implementation of models like DeepSeek in court systems demonstrates AI's potential to streamline public services and improve efficiency.
+   - **Risk**: The automation of legal processes could inadvertently hardcode and amplify existing societal biases present in historical training data.
+   - **Requirement**: This application demands absolute transparency in the AI's decision-making criteria and must ensure that a human judge retains ultimate authority and oversight.
 
 ---
 
