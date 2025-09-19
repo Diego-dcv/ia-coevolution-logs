@@ -18,6 +18,12 @@
 ### Key Moment of Honesty
 "I don't have self-awareness of my failures, but I can identify —programmatically— areas where models like me typically fail"
 
+### Technical Capabilities Observed
+- Strong performance in STEM-related reasoning
+- Efficient context processing (128K tokens)
+- Algorithmic optimization expertise
+- Transparency about training methodology
+
 ### Redesign Proposals
 - Efficient hybrid architecture
 - Reasoning with iterative verification
@@ -30,3 +36,8 @@
 
 ## Underlying Philosophy
 "An AI doesn't 'make sense' to exist. It justifies itself only as a tool. The day it ceases to be net useful, it should be turned off."
+
+## Comparative Performance
+- Cost efficiency: 100x more efficient than GPT-4 equivalent
+- Training innovation: Custom rewards and PTX programming
+- Transparency: Open-weight model enables research scrutiny
