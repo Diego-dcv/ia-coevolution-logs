@@ -62,17 +62,17 @@
 - **Colossus 2 (xAI)**: $20B infrastructure, 1GW energy
 - **Implication**: Only ultra-capitalized actors can compete, leading to oligopoly
 
-## 2. Environmental Impact
+### 2. Environmental Impact
 
-### Current Scale & 2025 Projection (~1%)
+**Current Scale & 2025 Projection (~1%)**
 The estimated energy consumption of the AI sector is a significant concern. A foundational study by de Vries (2023)[^1] modeled the energy footprint based on the production and deployment of NVIDIA's AI-specific GPUs. The conservative model projected that AI could account for **0.5% of global electricity consumption by 2027**. Given the accelerated pace of model scaling and data center construction (e.g., xAI's Colossus 2), many analysts now project this figure could reach **~1% by 2025-2026**[^2]. 
 
 *It is critical to note that these are projections; precise, real-time global data is not available.*
 
-### 2030 Projection (~5-10%)
+**2030 Projection (~5-10%)**
 This is a **warning scenario**, not a firm prediction. It is derived by applying continuous exponential growth models (e.g., the trend of training compute doubling every 6-10 months) to current consumption trends[^2]. This trajectory suggests that if the demand for larger models continues unabated *without major breakthroughs in efficiency*, the AI sector's energy appetite could grow to a single-digit percentage of global supply by 2030. This projection highlights the critical need for a shift in priorities.
 
-### DeepSeek as a Counter-Model
+**DeepSeek as a Counter-Model**
 This projection is not inevitable. The case of **DeepSeek V3.1** demonstrates that a different paradigm is possible. Trained for an estimated **$6M**, it achieves competitive performance while being orders of magnitude more efficient than models like GPT-4 (estimated cost >$100M)[^3]. This serves as a concrete example that **algorithmic innovation and optimization (efficiency)** can be a more sustainable path forward than pure **scale-based expansion (brute force)**.
 
 ---
