@@ -62,10 +62,30 @@
 - **Colossus 2 (xAI)**: $20B infrastructure, 1GW energy
 - **Implication**: Only ultra-capitalized actors can compete, leading to oligopoly
 
-### 2. Environmental Impact
-- **Current scale**: AI consumes ~1% of global electricity (2025)
-- **2030 projection**: ~5-10% if exponential growth continues
-- **DeepSeek as counter-model**: Demonstrates efficiency > scale
+## 2. Environmental Impact
+
+### Current Scale & 2025 Projection (~1%)
+The estimated energy consumption of the AI sector is a significant concern. A foundational study by de Vries (2023)[^1] modeled the energy footprint based on the production and deployment of NVIDIA's AI-specific GPUs. The conservative model projected that AI could account for **0.5% of global electricity consumption by 2027**. Given the accelerated pace of model scaling and data center construction (e.g., xAI's Colossus 2), many analysts now project this figure could reach **~1% by 2025-2026**[^2]. 
+
+*It is critical to note that these are projections; precise, real-time global data is not available.*
+
+### 2030 Projection (~5-10%)
+This is a **warning scenario**, not a firm prediction. It is derived by applying continuous exponential growth models (e.g., the trend of training compute doubling every 6-10 months) to current consumption trends[^2]. This trajectory suggests that if the demand for larger models continues unabated *without major breakthroughs in efficiency*, the AI sector's energy appetite could grow to a single-digit percentage of global supply by 2030. This projection highlights the critical need for a shift in priorities.
+
+### DeepSeek as a Counter-Model
+This projection is not inevitable. The case of **DeepSeek V3.1** demonstrates that a different paradigm is possible. Trained for an estimated **$6M**, it achieves competitive performance while being orders of magnitude more efficient than models like GPT-4 (estimated cost >$100M)[^3]. This serves as a concrete example that **algorithmic innovation and optimization (efficiency)** can be a more sustainable path forward than pure **scale-based expansion (brute force)**.
+
+---
+
+## References & Methodology
+
+[^1]: **de Vries, A. (2023). "The growing energy footprint of artificial intelligence." *Joule*.** This study provides a conservative, peer-reviewed model for estimating AI's energy consumption based on hardware production data.
+
+[^2]: **Industry Analysis (SemiAnalysis, BloombergNEF).** These projections are based on aggregating data on announced data center projects, chip production capacity, and computational trends. They represent informed estimates from financial and tech industry analysts.
+
+[^3]: **Publicly Announced Figures.** DeepSeek's training cost was self-reported. Comparative figures for other models (e.g., GPT-4) are based on widespread reporting from reputable tech journals like *The Economist* and *MIT Technology Review*, citing industry insiders and analysts.
+
+> **Important Note:** *Measuring the exact global energy consumption of AI is inherently challenging. The figures presented are the best available estimates and projections based on modeling and industry analysis. They serve to illustrate the scale of the challenge and the importance of prioritizing efficiency.*
 
 ### 3. Cognitive Homogenization
 - **Similar datasets**: All trained on web text, books, code
