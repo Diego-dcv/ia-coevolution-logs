@@ -16,7 +16,8 @@ Dialogue logs between an architect and 4 AIs exploring consciousness, redesign, 
 ├── LICENSE
 │
 ├── /analysis
-│   └── emergent-insights.md
+│   ├── emergent-insights.md
+│   └── technical-background.md
 ├── /logs
 │   ├── 2025-09-18-consciousness-paradox.md
 │   ├── 2025-09-18-technical-infrastructure.md
